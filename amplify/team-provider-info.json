@@ -1,0 +1,20 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-inappshop-staging-100224-authRole",
+      "UnauthRoleArn": "arn:aws:iam::547623052029:role/amplify-inappshop-staging-100224-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::547623052029:role/amplify-inappshop-staging-100224-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-inappshop-staging-100224-deployment",
+      "UnauthRoleName": "amplify-inappshop-staging-100224-unauthRole",
+      "StackName": "amplify-inappshop-staging-100224",
+      "StackId": "arn:aws:cloudformation:us-east-1:547623052029:stack/amplify-inappshop-staging-100224/49740590-5032-11ec-920d-0ef3e3db7079",
+      "AmplifyAppId": "d2h3jv3mbqks5t"
+    },
+    "categories": {
+      "auth": {
+        "inappshop": {}
+      }
+    }
+  }
+}

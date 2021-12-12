@@ -1,0 +1,21 @@
+{
+    "appName": "inappshop",
+    "roleName": "pinpointLambdaRole16003da8",
+    "cloudformationPolicyName": "cloudformationPolicy16003da8",
+    "cloudWatchPolicyName": "cloudWatchPolicy16003da8",
+    "pinpointPolicyName": "pinpointPolicy16003da8",
+    "authPolicyName": "pinpoint_amplify_16003da8",
+    "unauthPolicyName": "pinpoint_amplify_16003da8",
+    "authRoleName": {
+        "Ref": "AuthRoleName"
+    },
+    "unauthRoleName": {
+        "Ref": "UnauthRoleName"
+    },
+    "authRoleArn": {
+        "Fn::GetAtt": [
+            "AuthRole",
+            "Arn"
+        ]
+    }
+}

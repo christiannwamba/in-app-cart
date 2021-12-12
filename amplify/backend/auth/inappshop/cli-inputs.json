@@ -1,0 +1,12 @@
+{
+  "version": "1",
+  "cognitoConfig": {
+    "identityPoolName": "inappshop_identitypool_bd4c1923",
+    "allowUnauthenticatedIdentities": true,
+    "authSelections": "identityPoolOnly",
+    "resourceName": "inappshop",
+    "sharedId": "bd4c1923",
+    "serviceName": "Cognito",
+    "useDefault": "manual"
+  }
+}

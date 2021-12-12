@@ -10,11 +10,24 @@
     "eject": "expo eject"
   },
   "dependencies": {
+    "@react-native-async-storage/async-storage": "1.15.14",
+    "@react-native-community/netinfo": "7.1.5",
+    "@react-native-picker/picker": "2.2.1",
+    "@react-navigation/native": "^6.0.6",
+    "@react-navigation/native-stack": "^6.2.5",
+    "amazon-cognito-identity-js": "5.2.3",
+    "aws-amplify": "4.3.3-in-app-messaging.56",
+    "aws-amplify-react-native": "5.0.4-in-app-messaging.174",
     "expo": "~43.0.2",
     "expo-status-bar": "~1.1.0",
     "react": "17.0.1",
     "react-dom": "17.0.1",
     "react-native": "0.64.3",
+    "react-native-get-random-values": "1.7.1",
+    "react-native-safe-area-context": "3.3.2",
+    "react-native-screens": "~3.8.0",
+    "react-native-svg": "12.1.1",
+    "react-native-url-polyfill": "1.3.0",
     "react-native-web": "0.17.1"
   },
   "devDependencies": {
